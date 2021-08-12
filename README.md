@@ -19,8 +19,9 @@ Portfolio personnel fait en laravel
 <h3>Refresh des migratioins des tables: </h3>
 <p>php artisan migrate:fresh</p>
 
-<h2>Intégration :</h2>
+<h2>Intégration spécifique :</h2>
 
+<h3>Pagination Bootstrap</h3>
 <code>Pagination Bootstrap -> [App/Providers/AppServiceProvider.php]</code>
 <code>Paginator::useBootstrap();</code>
 
